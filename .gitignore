@@ -1,0 +1,9 @@
+
+*.pyc
+
+## Data 
+*.npy
+*.csv
+
+## Model
+*.pt
