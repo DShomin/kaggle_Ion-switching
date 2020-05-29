@@ -9,11 +9,11 @@ private rank : 79
 ## use optimizer : AdamW
 
 ## use FE : power signal, bi-directional shift signal
-'''python
+```python
 
 power_signal = signal**2
 
-'''
+```
 
 
 ## Ensemble : Flip model ensemble
