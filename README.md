@@ -1,6 +1,6 @@
 # [kaggle Ion-Switcing](https://www.kaggle.com/c/liverpool-ion-switching)
 
-private rank : 79
+private rank : 79</br>
 This code was created from [Mobassir's](https://www.kaggle.com/mobassir) [public kernel](https://www.kaggle.com/mobassir/understanding-ion-switching-with-modeling) base.
 
 ## model : Wavenet
